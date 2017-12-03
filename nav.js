@@ -18,7 +18,7 @@ document.write(
 '        <li><a href="research.html">Research</a></li>'+
 '        <li><a href="publication.html">Publications</a></li>'+
 '        <li><a href="links.html">Links</a></li>'+
-'        <li><a href="contact.html">Contact</a></li>'+
+//'        <li><a href="contact.html">Contact</a></li>'+
 '    </ul>'+
 '    </div>'
 );
