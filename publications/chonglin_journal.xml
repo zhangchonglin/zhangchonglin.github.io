@@ -7,19 +7,36 @@
   </metadata>
   
   <entry id="zhang2014a">
-      <article>
-          <author>Zhang, C.</author>
-          <author>Valentini, P.</author>
-          <author>Schwartzentruber, T. E.</author>
-          <title>Nonequilibrium-Direction-Dependent Rotational Energy Model for use in
-              Continuum and Stochastic Molecular Simulation</title>
-          <journal>AIAA Journal.</journal>
-          <volume>52(3)</volume>
-          <pages>604-617</pages>
-          <year>2014</year>
+    <article>
+      <author>Zhang, C.</author>
+      <author>Valentini, P.</author>
+      <author>Schwartzentruber, T. E.</author>
+      <title>Nonequilibrium-Direction-Dependent Rotational Energy Model for use in 
+       Continuum and Stochastic Molecular Simulation</title>
+      <journal>AIAA Journal.</journal>
+      <volume>52(3)</volume>
+      <pages>604-617</pages>
+      <year>2014</year>
+      <url>https://arc.aiaa.org/doi/abs/10.2514/1.J052514</url>
       </article>
   </entry>
-
+  
+  <entry id="zhang2014b">
+    <article>
+      <author>Valentini, P.</author>
+      <author>Norman, P.</author>
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>
+      <title>Rovibrational coupling in molecular nitrogen at high temperature: An 
+					atomic-level study</title>
+      <journal>Physics of Fluids</journal>
+      <volume>26</volume>
+      <pages>056103</pages>
+      <year>2014</year>
+      <url>http://aip.scitation.org/doi/abs/10.1063/1.4875279</url>
+      </article>
+  </entry>
+  
   <entry id="zhang2013b">
     <article>
       <author>Zhang, C.</author>
