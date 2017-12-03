@@ -6,6 +6,23 @@
     <dc:identifier>urn:uuid:d2e2d227-5f85-485d-bd9f-e88b450a0e3c</dc:identifier>
   </metadata>
   
+  <entry id="zhang2017">
+    <article>
+      <author>Srinivasan, C.</author>
+      <author>Zhang, C.</author>
+      <author>Gao, H.</author>
+      <author>Wang, D.</author>
+      <author>Slike, J.</author>
+      <title>Modeling of Phase Change within a Wax Element Thermostat Embedded in an 
+	      Automotive Cooling System</title>
+      <journal>SAE International Journal of Engines.</journal>
+      <volume>10</volume>
+      <pages>181-195</pages>
+      <year>2017</year>
+      <url>http://papers.sae.org/2017-01-0131/</url>
+      </article>
+  </entry>
+	
   <entry id="zhang2014a">
     <article>
       <author>Zhang, C.</author>
