@@ -1,0 +1,160 @@
+body {
+width:800px; 
+margin:auto;
+font-size: 12pt; 
+font-family: Times New Roman; 
+color: Navy; 
+background: White}
+
+a {color: RoyalBlue}
+strong {color: Navy}
+cap {
+font-size:10pt;
+font-style: oblique;
+}
+lab {
+font-weight: bold;
+font-size:10pt
+}
+m {
+font-size:11pt
+}
+
+/* rulers */
+#topruler div {margin-bottom: 10px}
+#topruler table {border: "0px"; width: 800px}
+#topruler td {background-color: Maroon}
+#bottomruler div {margin-top: 20px; text-align: center}
+#bottomruler table {border: "0px"; width: 800px}
+#bottomruler td {background-color: Maroon}
+#bottomruler p {margin-top: 3px; text-align: center}
+
+
+/* site title */
+h1{
+    font-size: 30pt;
+    font-family: Times;
+    color: Navy;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* page title */
+h2{
+    font-size: 20pt; 
+    color: Navy;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* section title*/
+h3{
+    font-size: 14pt;
+    font-family: Arial;
+    color: Maroon;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* table on the title page*/
+#titletable p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+/* tables in bio page*/
+#bio table{
+    margin-left: 5px;
+}
+#bio td{
+    vertical-align: top;
+}
+#bio table p{
+    margin: 0px
+}
+
+
+/*
+===============================
+BEGINNING - publication list
+===============================
+*/
+ol.bib2xhtml li{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+issue {
+font-weight: bold 
+}
+/*
+===============================
+END - publication list
+===============================
+*/
+
+/*
+===============================
+BEGINNING - navigation bar
+===============================
+*/
+ul#navigation
+{
+list-style-type:none;
+margin:0;
+padding:0;  
+font-size: 14pt;
+font-family: Arial;
+font-weight: bold;
+height: 30px;
+}
+ul#navigation li{
+    display: inline;
+    margin: 0px;
+}
+ul#navigation li a{
+    color: Black;	
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 0px solid Maroon; 
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    border-radius : 5px;  
+    -moz-border-radius : 5px;  
+    -webkit-border-radius : 5px;  
+    background : -webkit-gradient(linear, left top, left bottombottom, from(WhiteSmoke), to(Silver));  
+    background : -moz-linear-gradient(top, WhiteSmoke, Silver);
+}
+ul#navigation li a#current{
+    color: White;
+    background-color: Maroon;
+    border: 0px solid Maroon; 
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    border-radius : 5px;  
+    -moz-border-radius : 5px;  
+    -webkit-border-radius : 5px;  
+    background : -webkit-gradient(linear, left top, left bottombottom, from(FireBrick), to(Maroon));  
+    background : -moz-linear-gradient(top, FireBrick, Maroon);
+}
+ul#navigation li a:hover{  
+    color: White;
+    text-decoration: underline;
+    background-color: Navy;
+    border: 1px solid Navy; 
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    border-radius : 5px;  
+    -moz-border-radius : 5px;  
+    -webkit-border-radius : 5px;  
+    background : -webkit-gradient(linear, left top, left bottombottom, from(DarkSlateBlue), to(Navy));  
+    background : -moz-linear-gradient(top, DarkSlateBlue, Navy);
+}
+/*
+===============================
+END - navigation bar
+===============================
+*/

@@ -1,0 +1,58 @@
+    
+    %css for the lavalamp
+    
+    .lavalamp {  
+        position: relative;  
+        border: 1px solid #d6d6d6;  
+        background: Blue;  
+        padding: 15px;  
+        box-shadow: 0 3px 6px rgba(0,0,0,.25);
+        border-radius : 10px;
+        height: 18px;
+        color: Red;  
+    }  
+    
+    
+    ul {
+    margin: 0;  
+    padding: 0;  
+    z-index: 300;  
+    position: absolute;  
+}  
+  
+ul li {  
+    list-style: none;  
+    float:left;    
+    text-align: center;  
+    }  
+  
+ul li a {  
+    padding: 0 20px;  
+    text-align: center;
+    position: relative;  
+    border: 1px solid #d6d6d6;  
+    background: #fff;  
+    padding: 15px;  
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);  
+    border-radius : 10px;  
+    -moz-border-radius : 10px;  
+    -webkit-border-radius : 10px;  
+    background : -webkit-gradient(linear, left top, left bottombottom, from(rgb(240,240,240)), to(rgb(204,204,204)));  
+    background : -moz-linear-gradient(top, rgb(240,240,240), rgb(204,204,204));  
+    height: 18px;   
+    } 
+    
+    .floatr {  
+    position: absolute;  
+    top: 10px;  
+    z-index: 50;  
+    width: 70px;  
+    height: 30px;  
+    border-radius : 8px;  
+    -moz-border-radius : 8px;  
+    -webkit-border-radius : 8px;  
+    background : rgba(0,0,0,.20);  
+    -webkit-transition: all .4s ease-in-out;  
+    -moz-transition: all .4s ease-in-out;  
+} 

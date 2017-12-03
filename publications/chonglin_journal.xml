@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<file xmlns="http://bibtexml.sf.net/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:date>2013-02-12T14:43:59-0600</dc:date>
+    <dc:format>text/xml</dc:format>
+    <dc:identifier>urn:uuid:d2e2d227-5f85-485d-bd9f-e88b450a0e3c</dc:identifier>
+  </metadata>
+  
+  <entry id="zhang2014a">
+      <article>
+          <author>Zhang, C.</author>
+          <author>Valentini, P.</author>
+          <author>Schwartzentruber, T. E.</author>
+          <title>Nonequilibrium-Direction-Dependent Rotational Energy Model for use in
+              Continuum and Stochastic Molecular Simulation</title>
+          <journal>AIAA Journal.</journal>
+          <volume>52(3)</volume>
+          <pages>604-617</pages>
+          <year>2014</year>
+      </article>
+  </entry>
+
+  <entry id="zhang2013b">
+    <article>
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>   
+      <title>Inelastic Collision Selection Procedures for Direct Simulation Monte Carlo 
+      Calculations of Gas Mixtures</title>
+      <journal>Physics of Fluids</journal>
+      <volume>25</volume>
+      <pages>106105</pages>
+      <year>2013</year>
+      <url>http://scitation.aip.org/content/aip/journal/pof2/25/10/10.1063/1.4825340</url>     
+    </article>
+  </entry>
+  
+  <entry id="zhang2013a">
+    <article>
+      <author>Valentini, P.</author>
+      <author>Tump, P.</author>      
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>   
+      <title>Molecular Dynamics Simulations of Shock Waves in Mixtures of Noble Gases</title>
+      <journal>Journal of Thermophysics and Heat Transfer</journal>
+      <volume>27(2)</volume>
+      <pages>226-234</pages>
+      <year>2013</year>
+      <url>http://arc.aiaa.org/doi/abs/10.2514/1.T3903</url>          
+    </article>
+  </entry>
+  
+  <entry id="zhang2012c">
+    <article>
+      <author>Zhang, C.</author>
+      <author>Thajudeen, T.</author> 
+      <author>Larriba, C.</author> 
+      <author>Schwartzentruber, T. E.</author> 
+      <author>Hogan, C. J.</author>             
+      <title>Determination of the Scalar Friction Factor for Non-spherical Particles and 
+      Aggregates Across the Entire Knudsen Number Range by Direct Simulation Monte 
+      Carlo (DSMC)</title>
+      <journal>Aerosol Science and Technology</journal>
+      <year>2013</year>
+      <volume>46(10)</volume>
+      <pages>1065-1078</pages>
+     <!-- <pdf>EES_2013.pdf</pdf> -->
+      <url>http://www.tandfonline.com/doi/abs/10.1080/02786826.2012.690543</url>
+    </article>
+  </entry>
+  
+  <entry id="zhang2012b">
+    <article>
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>   
+      <title>Robust Cut-cell Algorithms for DSMC Implementations Employing Multi- level Cartesian Grids</title>
+      <journal>Computers &#38; Fluids</journal>
+      <year>2012</year>
+      <volume>69</volume>
+      <pages>122-135</pages>
+      <url>http://www.sciencedirect.com/science/article/pii/S0045793012003192</url>
+    </article>
+  </entry>
+  
+  <entry id="zhang2012a">
+    <article>
+      <author>Valentini, P.</author>
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>   
+      <title>Molecular Dynamics Simulation of Rotational Relaxation in Nitrogen: 
+      Implications for Rotational Collision Number Models</title>
+      <journal>Physics of Fluids</journal>
+      <year>2012</year>
+      <volume>24</volume>
+      <pages>106101</pages>
+      <url>http://scitation.aip.org/content/aip/journal/pof2/24/10/10.1063/1.4757119</url>
+    </article>
+  </entry>
+
+  <entry id="zhang2011">
+    <article>
+      <author>Gao, D.</author>    
+      <author>Zhang, C.</author>
+      <author>Schwartzentruber, T. E.</author>   
+      <title>Particle Simulations of Planetary Probe Flows Employing Automated Mesh 
+      Refinement</title>
+      <journal>Journal of Spacecraft and Rockets</journal>
+      <year>2011</year>
+      <volume>48(3)</volume>
+      <pages>397-405</pages>
+      <url>http://arc.aiaa.org/doi/pdf/10.2514/1.52129</url>
+    </article>
+  </entry>
+</file>
+
